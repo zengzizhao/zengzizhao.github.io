@@ -1,0 +1,58 @@
+I"�<ul id="markdown-toc">
+  <li><a href="#工具" id="markdown-toc-工具">工具</a></li>
+  <li><a href="#编程语言" id="markdown-toc-编程语言">编程语言</a>    <ul>
+      <li><a href="#php" id="markdown-toc-php">PHP</a></li>
+      <li><a href="#golang" id="markdown-toc-golang">Golang</a></li>
+      <li><a href="#gamesever" id="markdown-toc-gamesever">GameSever</a></li>
+    </ul>
+  </li>
+  <li><a href="#comments" id="markdown-toc-comments">Comments</a></li>
+</ul>
+
+<h2 id="工具">工具</h2>
+
+<ul>
+  <li></li>
+  <li><a href="https://blog.zzz320.net/">test</a>
+    <ul>
+      <li>test。</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="编程语言">编程语言</h2>
+
+<h3 id="php">PHP</h3>
+
+<ul>
+  <li><a href="https://blog.zzz320.net/">标题 -作者</a>
+  test。</li>
+</ul>
+
+<h3 id="golang">Golang</h3>
+
+<h3 id="gamesever">GameSever</h3>
+
+<h2 id="comments">Comments</h2>
+
+<!-- 多说评论框 start -->
+<div class="ds-thread" data-thread-key="http://localhost:4001/collection/" data-title="Collections" data-url="http://localhost:4001/collection/"></div>
+<!-- 多说评论框 end -->
+<!-- 多说公共JS代码 start (一个网页只需插入一次) -->
+<script type="text/javascript">
+    var duoshuoQuery = {
+        short_name: "hygblog"
+    };
+    (function() {
+        var ds = document.createElement('script');
+        ds.type = 'text/javascript';
+        ds.async = true;
+        ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
+        ds.charset = 'UTF-8';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ds);
+    })();
+</script>
+
+<!-- 多说公共JS代码 end -->
+
+:ET

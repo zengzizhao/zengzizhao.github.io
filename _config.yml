@@ -7,7 +7,7 @@
 
 # Site settings
 title: 曾子昭的Blog
-brief-intro: Android and Python Coder
+brief-intro: Golang and PHP Coder
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://zengzizhao.github.io" # the base hostname & protocol for your site
 
@@ -28,7 +28,7 @@ description_footer: 来自曾子昭的Blog！
 # comments
 # two ways to comment, only choose one, and use your own short name
 # 两种评论插件，选一个就好了，使用自己的 short_name
-duoshuo_shortname: #hygblog
+duoshuo_shortname: hygblog
 disqus_shortname: #gaohaoyang
 
 # statistic analysis 统计代码
