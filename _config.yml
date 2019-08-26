@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: 曾子昭的Blog
+title: 曾子昭的1Blog
 brief-intro: Golang and PHP Coder
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://zengzizhao.github.io" # the base hostname & protocol for your site
